@@ -40,5 +40,14 @@ body
 #post
 {
     padding: 1em;
+    text-align: left;
+
+}
+
+#footer
+{
+    padding: 4em;
+    font-size: 50px;
+    text-align: right;
 
 }
