@@ -4,4 +4,5 @@ Es creado para la practica de git el el cual estoy llevando a cabo todolos ejerc
 ## En este curso se veran:
 * Todos los comandos en git 
 * git aplicado a un entorno de trabajo
-
+* creado por mi 
+* mas de mas 
