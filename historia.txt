@@ -5,6 +5,12 @@ mañana lo guardo
 
 Experiemnto 1
 
+<<<<<<< HEAD
 master nuevo
 
 master nuevo 2
+=======
+Experiemnto 2
+
+master nuevo
+>>>>>>> 3aa990f (Exp nuevo 2)
