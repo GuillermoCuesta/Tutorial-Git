@@ -5,4 +5,5 @@ Es creado para la practica de git el el cual estoy llevando a cabo todolos ejerc
 * Todos los comandos en git 
 * git aplicado a un entorno de trabajo
 * creado por mi 
-* mas de mas 
+* mas de mas incluye ejemplos en mjuchas cosa 
+* mas caracteristicas del curso
